@@ -1,2 +1,0 @@
-# C-
-Tasks from curses.
