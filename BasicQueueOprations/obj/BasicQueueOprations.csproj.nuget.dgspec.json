@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Curses\\C#\\C# Advanced\\1. Stacks and Queues\\Stacks and Queues\\BasicQueueOprations\\BasicQueueOprations.csproj": {}
+  },
+  "projects": {
+    "D:\\Curses\\C#\\C# Advanced\\1. Stacks and Queues\\Stacks and Queues\\BasicQueueOprations\\BasicQueueOprations.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Curses\\C#\\C# Advanced\\1. Stacks and Queues\\Stacks and Queues\\BasicQueueOprations\\BasicQueueOprations.csproj",
+        "projectName": "BasicQueueOprations",
+        "projectPath": "D:\\Curses\\C#\\C# Advanced\\1. Stacks and Queues\\Stacks and Queues\\BasicQueueOprations\\BasicQueueOprations.csproj",
+        "packagesPath": "C:\\Users\\porak\\.nuget\\packages\\",
+        "outputPath": "D:\\Curses\\C#\\C# Advanced\\1. Stacks and Queues\\Stacks and Queues\\BasicQueueOprations\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\porak\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
